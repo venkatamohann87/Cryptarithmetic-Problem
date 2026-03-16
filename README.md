@@ -1,6 +1,6 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
-<h3>Name:  V Raksha Dharanika          </h3>
-<h3>Register Number:  212223230167  </h3>
+<h3>Name:  VENKATA MOHAN N          </h3>
+<h3>Register Number:  212224230298 </h3>
 <H3>Aim:</H3>
 
 <p>
